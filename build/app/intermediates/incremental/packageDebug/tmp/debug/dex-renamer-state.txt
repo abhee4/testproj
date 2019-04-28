@@ -1,0 +1,4 @@
+#Sun Apr 28 20:53:59 IST 2019
+base.0=C\:\\Users\\abhis\\Documents\\test_proj\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
